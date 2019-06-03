@@ -4,3 +4,4 @@ After committing line 1 above, I add this.
  After closing Working Tree, add line 4.
 Another new line. You can edit in Source Control.
 It looks like (Working Tree) appears after Staging Changes.
+Now there is a new file: (Index)
