@@ -1,3 +1,4 @@
 Scott's test document.
 After committing line 1 above, I add this.
  Now add another line.
+ After closing Working Tree, add line 4.
